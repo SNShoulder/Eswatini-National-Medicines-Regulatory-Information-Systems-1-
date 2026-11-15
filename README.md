@@ -18,10 +18,10 @@ database/    Numbered MySQL schema and seed scripts
 docs/        Requirements, design, interface, testing, and user documentation
 ```
 
-The database schema and API contract are established. Staff authentication and
-the replacement-Admin approval workflow are implemented; medicine-register
-search is the next feature. Use synthetic data for development until MRA data is
-approved for use.
+The database schema and API contract are established. Staff authentication,
+the replacement-Admin approval workflow, and medicine-register search are
+implemented. Use synthetic data for development until MRA data is approved for
+use.
 
 ## Set up the backend
 
